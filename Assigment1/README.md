@@ -1,9 +1,12 @@
 • What was positive and good about using TDD?
 
 You notice errors faster, so you dont have to manually find the problems later.
-You find errors before the users find them
-You can confidently refactor the code afterwards
-You think about the design of the code before you start to code, where you could loose overview when you sit in coding details
+
+You find errors before the users find them.
+
+You can confidently refactor the code afterwards.
+
+You think about the design of the code before you start to code.
 
 • What was annoying or difficult?#
 
