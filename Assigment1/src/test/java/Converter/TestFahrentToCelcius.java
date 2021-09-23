@@ -1,6 +1,10 @@
 package Converter;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
+import org.junit.jupiter.params.provider.ValueSource;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -28,5 +32,18 @@ public class TestFahrentToCelcius {
         // Assert
         assertEquals(32.22,result);
     }
+
+
+   @ParameterizedTest
+   @CsvSource({"90,32.22","1,-17.22" })
+   public void testParam(double input, double expected){
+
+       fahrentToCelsius f2C = new fahrentToCelsius();
+
+       double result = f2C.farhToCel(input);
+
+       assertEquals(expected,result);
+   }
+
 
 }
