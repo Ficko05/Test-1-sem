@@ -23,4 +23,47 @@ long story short, VBA 2016 did not like all of that data and would crash Excel e
 and i dont think test could have fix the problem.
 
 
+Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.
+
+ -@Tag  :used to filter or "naming" the test/method, could be smart to describe a long-named method to something simpler.
+ 
+ 
+ -@Disabled  :Used to disable a test, grate for temporarily avoiding red tests.
+ 
+ 
+ -@RepeatedTest  :it repeads a test x amount of times.
+ 
+ 
+ -@BeforeEach, @AfterEach  :make code or "whatever" runs it befor the test. if you use the same arrange for more than one test, use a BeforeEach to with the line of code once.
+ 
+ 
+ -@BeforeAll, @AfterAll  :again abit like the one above. 
+ 
+ 
+ -@DisplayName  :Displayes a custom name for a test.
+ 
+ 
+ -@Nested  :for grouping test together that have a relationship among several groups of tests 
+ 
+ 
+ -assumeFalse, assumeTrue  
+ 
+ 
+Mocking frameworks
+
+• What are their similarities?
+
+ I choose the frameworks Mockito and EasyMock, they are both really similar do to the fact that Mockito's first "hacks" was made on top of Easymock code.
+ 
+• What are their differences?
+
+The syntax is very similar with slight variations. Easymock you need to be more specific of what you expect as an outcome. ("more code").
+
+• Which one would you prefer, if any, and why?
+
+since they or so similar, I would mind on over the other, but if I had to choose I would choose Mockito. do to the fact you can write "less" code and its extra support for stubbing.
+
+
+
+
 
