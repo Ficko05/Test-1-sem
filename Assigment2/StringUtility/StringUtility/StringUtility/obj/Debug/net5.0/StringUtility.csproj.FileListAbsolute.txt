@@ -1,0 +1,16 @@
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\StringUtility.exe
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\StringUtility.deps.json
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\StringUtility.runtimeconfig.json
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\StringUtility.runtimeconfig.dev.json
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\StringUtility.dll
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\ref\StringUtility.dll
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\bin\Debug\net5.0\StringUtility.pdb
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.dll
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\ref\StringUtility.dll
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.pdb
+C:\Users\filip\OneDrive\Skrivebord\SOFT\sem-1-soft\Test\Test-1-sem\Assigment2\StringUtility\StringUtility\StringUtility\obj\Debug\net5.0\StringUtility.genruntimeconfig.cache
