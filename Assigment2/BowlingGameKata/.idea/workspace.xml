@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration name="bowlingGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAssignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testBowlingGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testBowlingGame" />
+      <option name="MAIN_CLASS_NAME" value="testBowlingGame.bowlingGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.bowlingGameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
